@@ -103,7 +103,5 @@ We welcome contributions!
 
 # Contributors
 * Priya Verma
-* Kamila
-* Vennela Tempalle
-* Suganya
+
 
