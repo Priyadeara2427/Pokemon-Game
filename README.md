@@ -101,7 +101,7 @@ We welcome contributions!
 
 **🎉 Enjoy the game and become the ultimate Pokémon trainer! 🎉**
 
-Made with by
+# Contributors
 * Priya Verma
 * Kamila
 * Vennela Tempalle
